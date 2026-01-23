@@ -32,7 +32,7 @@ Contains additional code and supporting notebooks:
 - `functions.py`: centralizes all functions imported into the notebooks, improving code readability and clarity
 - `warnreg.ipynb`: notebook used to construct the geographical maps
 
-### `scores_pca_components/`
+### `scores & pca components/`
 Stores NumPy files containing:
 - the performance scores (accuracies) of the trained models
 - the number of PCA components selected for dimensionality reduction
