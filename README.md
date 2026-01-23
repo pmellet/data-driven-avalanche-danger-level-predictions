@@ -16,7 +16,7 @@ Contains the two conda environments used throughout the project:
 - `warnreg.yml`: environment dedicated to the creation of geographical maps using **GeoPandas**
 
 ### `notebooks/`
-All Jupyter notebooks developed for this project.
+All the principal Jupyter notebooks developed for the Data Analysis and Machine Learning parts of the project.
 
 ### `pictures_maps/`
 Images and maps that are used and reused within the notebooks.
